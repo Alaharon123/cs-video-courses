@@ -50,8 +50,8 @@ Courses
     1. [How to Code: Simple Data - edX](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
     2. [How to Code: Complex Data - edX](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 - [Textbook - SICP: Structure and Interpretation of Computer Programs, Second Edition - 1996](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+  - [6.001 - Structure and Interpretation of Computer Programs - 2005 - Eric Grimson - MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005)
   - [CS 61A - Structure and Interpretation of Computer Programs [Python] - Spring 2018 - John DeNero - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
-  - [6.001 - Structure and Interpretation of Computer Programs - 2005 - Eric Grimson - MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005) ([Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html))
 - Java
   - CS 1 Programming with Java - 2013 - Helsinki MOOC.fi
     1. [Object-Oriented programming with Java, part I](http://moocfi.github.io/courses/2013/programming-part-1/)
