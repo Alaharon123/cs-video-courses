@@ -39,27 +39,36 @@ Courses
 
 ### Introduction to Computer Science
 
-- [Introduction to Computation and Programming Using Python, Second Edition - 2016 - John Guttag - Textbook](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition)
-  - [6.00.1x - Introduction to Computer Science and Programming Using Python - 2016 - MIT edX](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
-  - [6.0001 - Introduction to Computer Science and Programming in Python - Fall 2016 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-- [6.001 - Structure and Interpretation of Computer Programs - 2005 - Eric Grimson - MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005) ([Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html))
 - [CS50's Introduction to Computer Science - David J. Malan - Harvard University edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
-- [CS 61A - Structure and Interpretation of Computer Programs [Python] - Spring 2018 - John DeNero - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
-- CPSC 110 - Computation, Programs, and Programming - Gregor Kiczales - UBC
-  1. [How to Code: Simple Data - edX](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
-  2. [How to Code: Complex Data - edX](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
-- [CS 1301 - Introduction to Computing in Python - 2017 - David Joyner - Georgia Tech edX](https://www.edx.org/professional-certificate/introduction-to-computing-in-python)
-- [CS 106A - Programming Methodology - 2007 - Mehran Sahami - Stanford University](https://see.stanford.edu/Course/CS106A)
-- [CS 106B - Programming Abstractions - 2008 - Julie Zelenski - Stanford University](https://see.stanford.edu/Course/CS106B)
-- [CmSc 150 Program Arcade Games with Python and Pygame - Paul Vincent Craven - Simpson College](http://ProgramArcadeGames.com)
-- LINFO 1104 - Paradigms of Computer Programming - Peter Van Roy - UCLouvain
-  1. [Paradigms of Computer Programming: Fundamentals - edX](https://www.edx.org/course/paradigms-of-computer-programming-fundamentals)
-  2. [Paradigms of Computer Programming: Abstraction and Concurrency - edX](https://www.edx.org/course/paradigms-of-computer-programming-abstraction-and-concurrency)
-- [FP101x - Introduction to Functional Programming - 2014 - Erik Meijer - TU Delft edX](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
-- [Introduction to Problem Solving and Programming - 2008 - Deepak Gupta - IIT Kanpur NPTEL](http://nptel.ac.in/courses/106104074/)
-- [Introduction to programming in C - 2017 - Satyadev Nandakumar - IIT Kanpur NPTEL](http://nptel.ac.in/courses/106104128/)
-- [Programming in C++ - 2016 - Satyadev Nandakumar - IIT Kharagpur NPTEL](http://nptel.ac.in/courses/106105151/)
-- [Python Boot Camp - Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
+- Python
+  - [CS 1301 - Introduction to Computing in Python - 2017 - David Joyner - Georgia Tech edX](https://www.edx.org/professional-certificate/introduction-to-computing-in-python)
+  - [Introduction to Computation and Programming Using Python, Second Edition - 2016 - John Guttag - Textbook](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition)
+    - [6.00.1x - Introduction to Computer Science and Programming Using Python - 2016 - MIT edX](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
+    - [6.0001 - Introduction to Computer Science and Programming in Python - Fall 2016 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [How to Design Programs, Second Edition - 2018 - Matthias Felleisen - Textbook](https://www.htdp.org/)
+  - CPSC 110 - Computation, Programs, and Programming - Gregor Kiczales - UBC
+    1. [How to Code: Simple Data - edX](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+    2. [How to Code: Complex Data - edX](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+- [SICP - Structure and Interpretation of Computer Programs, Second Edition - 1996 - Harold Abelson - Textbook]
+  - [CS 61A - Structure and Interpretation of Computer Programs [Python] - Spring 2018 - John DeNero - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
+  - [6.001 - Structure and Interpretation of Computer Programs - 2005 - Eric Grimson - MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005) ([Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html))
+- Java
+  - CS 1 Programming with Java - 2013 - Helsinki MOOC.fi
+    1. [Object-Oriented programming with Java, part I](http://moocfi.github.io/courses/2013/programming-part-1/)
+    2. [Object-Oriented programming with Java, part II](http://moocfi.github.io/courses/2013/programming-part-2/)
+  - [CS 106A - Programming Methodology - 2007 - Mehran Sahami - Stanford University](https://see.stanford.edu/Course/CS106A)
+- Miscellaneous 
+  - [CmSc 150 Program Arcade Games with Python and Pygame - Paul Vincent Craven - Simpson College](http://ProgramArcadeGames.com)
+  - [Introduction to Problem Solving and Programming - 2008 - Deepak Gupta - IIT Kanpur NPTEL](http://nptel.ac.in/courses/106104074/)
+  - [Introduction to programming in C - 2017 - Satyadev Nandakumar - IIT Kanpur NPTEL](http://nptel.ac.in/courses/106104128/)
+- Introduction to Computer Science II  
+  - [CS 106B - Programming Abstractions - 2008 - Julie Zelenski - Stanford University](https://see.stanford.edu/Course/CS106B)
+  - [Programming in C++ - 2016 - Satyadev Nandakumar - IIT Kharagpur NPTEL](http://nptel.ac.in/courses/106105151/)
+  - LINFO 1104 - Paradigms of Computer Programming - Peter Van Roy - UCLouvain
+    1. [Paradigms of Computer Programming: Fundamentals - edX](https://www.edx.org/course/paradigms-of-computer-programming-fundamentals)
+    2. [Paradigms of Computer Programming: Abstraction and Concurrency - edX](https://www.edx.org/course/paradigms-of-computer-programming-abstraction-and-concurrency)
+  - [FP101x - Introduction to Functional Programming - 2014 - Erik Meijer - TU Delft edX](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
+  - [Python Boot Camp - Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
 
 ------
 
