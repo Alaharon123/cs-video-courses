@@ -42,14 +42,14 @@ Courses
 - [CS50's Introduction to Computer Science - David J. Malan - Harvard University edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 - Python
   - [CS 1301 - Introduction to Computing in Python - 2017 - David Joyner - Georgia Tech edX](https://www.edx.org/professional-certificate/introduction-to-computing-in-python)
-  - [Introduction to Computation and Programming Using Python, Second Edition - 2016 - John Guttag - Textbook](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition)
+  - [Textbook - Introduction to Computation and Programming Using Python, Second Edition - 2016](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition)
     - [6.00.1x - Introduction to Computer Science and Programming Using Python - 2016 - MIT edX](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
     - [6.0001 - Introduction to Computer Science and Programming in Python - Fall 2016 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-- [How to Design Programs, Second Edition - 2018 - Matthias Felleisen - Textbook](https://www.htdp.org/)
+- [Textbook - How to Design Programs, Second Edition - 2018](https://www.htdp.org/)
   - CPSC 110 - Computation, Programs, and Programming - Gregor Kiczales - UBC
     1. [How to Code: Simple Data - edX](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
     2. [How to Code: Complex Data - edX](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
-- [SICP - Structure and Interpretation of Computer Programs, Second Edition - 1996 - Harold Abelson - Textbook]
+- [Textbook - SICP: Structure and Interpretation of Computer Programs, Second Edition - 1996](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
   - [CS 61A - Structure and Interpretation of Computer Programs [Python] - Spring 2018 - John DeNero - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
   - [6.001 - Structure and Interpretation of Computer Programs - 2005 - Eric Grimson - MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005) ([Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html))
 - Java
