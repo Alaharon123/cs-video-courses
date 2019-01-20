@@ -74,13 +74,15 @@ Courses
 
 ### Data Structures and Algorithms
 
-- [6.006 - Introduction to Algorithms, MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
-- [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
-- [Algorithms: Design and Analysis 2 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
+- [6.006 - Introduction to Algorithms - Fall 2011 - MIT OCW](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- CS 161 - Design and Analysis of Algorithms - Stanford
+  - [Algorithms Specialization - Coursera](https://www.coursera.org/specializations/algorithms)
+  - Algorithms: Design and Analysis - Stanford Lagunita
+    1. [Part 1](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+    2. [Part 2](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
 - [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/)
 - [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
-- [CS225 - Data Structures - University of Illinois at Urbana-Champaign](https://chara.cs.illinois.edu/cs225/lectures/)
-- [CS2 - Data Structures and Algorithms - Richard Buckland - UNSW](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
+- [COMP 1927 - Algorithms and Data Structures - Richard Buckland - UNSW](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
 - [Data Structures - Pepperdine University](https://itunes.apple.com/us/course/data-structures/id546468797)
 - [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [6.046J - Introduction to Algorithms - Fall 2005, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
