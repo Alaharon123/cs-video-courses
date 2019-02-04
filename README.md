@@ -40,8 +40,8 @@ Courses
 ### Introduction to Computer Science
 
 - AP Computer Science Principles
-  - [CS50's Introduction to Computer Science - David J. Malan - Harvard University edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
   - [CS 10 - Beauty and Joy of Computing - UC Berkeley](https://bjc.edc.org/)
+  - [CS50's Introduction to Computer Science - David J. Malan - Harvard University edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 - [Textbook - How to Design Programs, Second Edition - 2018](https://www.htdp.org/)
   - CPSC 110 - Computation, Programs, and Programming - Gregor Kiczales - UBC
     1. [How to Code: Simple Data - edX](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
@@ -67,6 +67,7 @@ Courses
   - [Introduction to Problem Solving and Programming - 2008 - Deepak Gupta - IIT Kanpur NPTEL](http://nptel.ac.in/courses/106104074/)
   - [Introduction to programming in C - 2017 - Satyadev Nandakumar - IIT Kanpur NPTEL](http://nptel.ac.in/courses/106104128/)
 - Introduction to Computer Science II  
+  - [CS 2102 - Object-Oriented Design Concepts - 2016 - Kathi Fisler - WPI](https://web.cs.wpi.edu/~cs2102/b16/)
   - [CS 109 - Programming Practice - Otfried Cheong - KAIST](http://otfried.org/courses/cs109/index.html)
   - [CS 106B - Programming Abstractions - 2008 - Julie Zelenski - Stanford University SEE](https://see.stanford.edu/Course/CS106B)
   - [CS 107 - Programming Paradigms - 2008 - Jerry Cain - Stanford University SEE](https://see.stanford.edu/Course/CS107)
