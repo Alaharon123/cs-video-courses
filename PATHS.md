@@ -1,18 +1,12 @@
 ## Paths Through Courses
 
-### Gentle Introduction
-
-- [CS 10 - Beauty and Joy of Computing - UC Berkeley](https://bjc.edc.org/)
-- [CS50's Understanding Technology - David J. Malan - Harvard University edX](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t)
-- [CS 101 - Introduction to Computing Principles - Stanford Lagunita](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
-
-### How to Design Programs
+### WPI
 
 1. CS 1101
-  - [How to Design Programs](https://www.htdp.org/)
-  - CPSC 110 - Computation, Programs, and Programming - Gregor Kiczales - UBC edX
-    1. [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
-    2. [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+   - [How to Design Programs](https://www.htdp.org/)
+   - CPSC 110 - Computation, Programs, and Programming - Gregor Kiczales - UBC edX
+      1. [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+      2. [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 2. [CS 2102 - Object-Oriented Design Concepts - 2016 - Kathi Fisler - WPI](https://web.cs.wpi.edu/~cs2102/b16/)
 
 ### UC Berkeley
