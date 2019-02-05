@@ -27,7 +27,7 @@
 3. [CS 70 - Discrete Mathematics and Probability Theory - UC Berkeley](http://www.eecs70.org/) (prerequisite: Math 1A-B, CS 61A-B)
 
 **Electrical Engineering**
-1. [EE 16A - Designing Information Devices and Systems - Spring 2017 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee16a/sp17/) (prerequisite: Math 1A. corequisite: Math 1B, CS 61A)
+1. [EE 16A - Designing Information Devices and Systems I - Spring 2017 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee16a/sp17/) (prerequisite: Math 1A. corequisite: Math 1B, CS 61A)
 2. [EE 16B - Designing Information Devices and Systems II - Fall 2015 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee16b/fa15/) (prerequisite: EE 16A)
 
 **Computer Science**
