@@ -33,5 +33,5 @@
 **Computer Science**
 1. [CS 10 - Beauty and Joy of Computing - UC Berkeley](https://bjc.edc.org/)
 2. [CS 61A - Structure and Interpretation of Computer Programs - Spring 2018 - John DeNero - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (prerequisite: equivalent experience to CS 10. corequisite: Math 1A)
-3. [CS 61B - Data Structures - Josh Hug - UC Berkeley](https://sp19.datastructur.es/) (prerequisite: CS 61A)
+3. [CS 61B - Data Structures - Spring 2018 - Josh Hug - UC Berkeley](https://sp18.datastructur.es/) ([github](https://github.com/Berkeley-CS61B/skeleton-sp18)) (prerequisite: CS 61A)
 4. [CS 61C - Machine Structures - Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html)) (prerequisite: CS 61A-C)
