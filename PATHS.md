@@ -11,12 +11,12 @@
 
 ### UC Berkeley
 
-| Math  |  EE  |  CS  |
-|-------|------|------|
-|Math 1A|      |CS 10 |
-|Math 1B|EE 16A|CS 61A|
-|       |EE 16B|CS 61B|
-|CS 70  |      |CS 61C|
+| Math  |  EE  |    CS    |
+|-------|------|----------|
+|Math 1A|      |CS 8 or 10|
+|Math 1B|EE 16A|CS 61A    |
+|       |EE 16B|CS 61B    |
+|CS 70  |      |CS 61C    |
 
 **Math**
 1. Math 1A (prerequisite: Precalculus) 
@@ -31,7 +31,11 @@
 2. [EE 16B - Designing Information Devices and Systems II - Fall 2015 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee16b/fa15/) (prerequisite: EE 16A)
 
 **Computer Science**
-1. [CS 10 - Beauty and Joy of Computing - UC Berkeley](https://bjc.edc.org/)
-2. [CS 61A - Structure and Interpretation of Computer Programs - Spring 2018 - John DeNero - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (prerequisite: equivalent experience to CS 10. corequisite: Math 1A)
+1. Gentle Intro for those who need it (choose one)
+   - [Data 8 - The Foundations of Data Science - Fall 2016 - Ani Adhikari - UC Berkeley](http://data8.org/)
+   - [CS 10 - Beauty and Joy of Computing - 2017 - UC Berkeley](https://bjc.edc.org/)
+     1. https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0
+     2. https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0
+2. [CS 61A - Structure and Interpretation of Computer Programs - Spring 2018 - John DeNero - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (prerequisite: equivalent experience to CS 8 or 10. corequisite: Math 1A)
 3. [CS 61B - Data Structures - Spring 2018 - Josh Hug - UC Berkeley](https://sp18.datastructur.es/) ([github](https://github.com/Berkeley-CS61B/skeleton-sp18)) (prerequisite: CS 61A)
 4. [CS 61C - Machine Structures - Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html)) (prerequisite: CS 61A-C)
