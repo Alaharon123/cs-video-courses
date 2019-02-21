@@ -1,6 +1,6 @@
 ## Paths Through Courses
 
-### WPI
+### How to Design Programs
 
 1. CS 1101
    - [How to Design Programs](https://www.htdp.org/)
