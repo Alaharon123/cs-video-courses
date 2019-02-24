@@ -9,6 +9,13 @@
       2. [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 2. [CS 2102 - Object-Oriented Design Concepts - 2016 - Kathi Fisler - WPI](https://web.cs.wpi.edu/~cs2102/b16/)
 
+### Title
+
+1. MOOC.fi
+   - [Object-Oriented Programming with Java, part I](http://moocfi.github.io/courses/2013/programming-part-1/)
+   - [Object-Oriented Programming with Java, part II](http://moocfi.github.io/courses/2013/programming-part-2/)
+2. [6.005 - Software Construction - Spring 2016 - MIT ocw](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
+
 ### UC Berkeley
 
 | Math  |  EE  |    CS    |
