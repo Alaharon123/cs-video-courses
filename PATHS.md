@@ -1,6 +1,6 @@
 ## Paths Through Courses
 
-### How to Design Programs
+### WPI
 
 1. CS 1101
    - [How to Design Programs](https://www.htdp.org/)
@@ -9,7 +9,15 @@
       2. [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 2. [CS 2102 - Object-Oriented Design Concepts - 2016 - Kathi Fisler - WPI](https://web.cs.wpi.edu/~cs2102/b16/)
 
-### Title
+### Brown
+
+1. [Selections](https://cs.brown.edu/courses/csci0190/2019/placement-readings.html) from How to Design Programs
+2. CS 0190
+    - [Programming and Programming Languages](https://papl.cs.brown.edu/2019/)
+    - [Official Site](http://cs.brown.edu/courses/csci0190/)
+    - [Resources](https://functionalcs.github.io/curriculum/#org5f77e4e)
+
+### Java
 
 1. MOOC.fi
    - [Object-Oriented Programming with Java, part I](http://moocfi.github.io/courses/2013/programming-part-1/)
