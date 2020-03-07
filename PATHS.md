@@ -1,5 +1,7 @@
 ## Paths Through Courses
 
+Which path to take depends on how much math knowledge you're coming in with and how much programming knowledge you're coming in with. If you're ready to start with Calculus, go the Berkeley route. If you've programmed a decent amount before, particularly in an object-oriented language, go the Brown route. If you're not ready for Calculus and you're new to programming, go the WPI route.
+
 ### WPI
 
 1. CS 1101
@@ -17,21 +19,7 @@
     - [Official Site](http://cs.brown.edu/courses/csci0190/)
     - [Resources](https://functionalcs.github.io/curriculum/#org5f77e4e)
 
-### Java
-
-1. MOOC.fi
-   - [Object-Oriented Programming with Java, part I](http://moocfi.github.io/courses/2013/programming-part-1/)
-   - [Object-Oriented Programming with Java, part II](http://moocfi.github.io/courses/2013/programming-part-2/)
-2. [6.005 - Software Construction - Spring 2016 - MIT ocw](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
-
 ### UC Berkeley
-
-| Math  |  EE  |    CS    |
-|-------|------|----------|
-|Math 1A|      |CS 8 or 10|
-|Math 1B|EE 16A|CS 61A    |
-|       |EE 16B|CS 61B    |
-|CS 70  |      |CS 61C    |
 
 **Math**
 1. Math 1A (prerequisite: Precalculus) 
@@ -41,16 +29,8 @@
    - [18.01.3x - Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)
 3. [CS 70 - Discrete Mathematics and Probability Theory - UC Berkeley](http://www.eecs70.org/) (prerequisite: Math 1A-B, CS 61A-B)
 
-**Electrical Engineering**
-1. [EE 16A - Designing Information Devices and Systems I - Spring 2017 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee16a/sp17/) (prerequisite: Math 1A. corequisite: Math 1B, CS 61A)
-2. [EE 16B - Designing Information Devices and Systems II - Fall 2015 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee16b/fa15/) (prerequisite: EE 16A)
-
 **Computer Science**
-1. Gentle Intro for those who need it (choose one)
-   - [Data 8 - The Foundations of Data Science - Fall 2016 - Ani Adhikari - UC Berkeley](http://data8.org/)
-   - [CS 10 - Beauty and Joy of Computing - 2017 - UC Berkeley](https://bjc.edc.org/)
-     1. https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0
-     2. https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0
-2. [CS 61A - Structure and Interpretation of Computer Programs - Spring 2018 - John DeNero - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (prerequisite: equivalent experience to CS 8 or 10. corequisite: Math 1A)
-3. [CS 61B - Data Structures - Spring 2018 - Josh Hug - UC Berkeley](https://sp18.datastructur.es/) ([github](https://github.com/Berkeley-CS61B/skeleton-sp18)) (prerequisite: CS 61A)
-4. [CS 61C - Machine Structures - Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html)) (prerequisite: CS 61A-C)
+1. [CS 10 - The Foundations of Data Science - Spring 2014 - Dan Garcia - UC Berkeley](http://inst.eecs.berkeley.edu/~cs10/sp14/) ([Lectures](https://archive.org/details/ucberkeley_webcast_itunesu_805310921)) (optional)
+2. [CS 61A - Structure and Interpretation of Computer Programs - Spring 2014 - Paul Hiflinger - UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61a/sp14/) (prerequisite: CS 10 or equivalent knowledge. corequisite: 18.01)
+3. [CS 61B - Data Structures and Advanced Programming - Fall 2014 - Paul Hiflinger - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61b/fa14/) ([Lectures](https://archive.org/details/ucberkeley_webcast_itunesu_915550021)) (prerequisite: CS 61A)
+4. [CS 61C - Machine Structures - Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures](https://archive.org/details/ucberkeley_webcast_itunesu_960798612)) (prerequisite: CS 61A, and 61B or equivalent)
