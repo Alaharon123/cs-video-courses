@@ -10,7 +10,7 @@ Course | Notes
 [ASU MAT 117 College Algebra](https://www.edx.org/course/college-algebra-and-problem-solving) | 
 [ASU MAT 170 PreCalculus](https://www.edx.org/course/precalculus) |
 [MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) | There's also a [paced version on edX](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus) that runs once a year starting in the fall. You can likely learn the material faster on your own though.
-[MIT 6.042J Math for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) | Note that there's also a [2010 version](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) that's worth looking at.
+[MIT 6.042J Math for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | Note that there's also a [2015 version](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) that's worth looking at as a supplement.
 
 ## Computer Science
 
@@ -26,12 +26,12 @@ CS 2223 | | prerequisite: 6.042J Math for Computer Science;<br />Use some combin
 
 Course Homepage | Lectures | Calendar | Notes
 :-- | :-- | :-- | :--
-[CS 10 - The Beauty and Joy of Computing - Spring 2013](http://inst.eecs.berkeley.edu/~cs10/sp14/) | [Internet Achive](https://archive.org/details/ucberkeley_webcast_itunesu_805310921) | | If you've never touched code before. Any other course will do fine as well. If you've played around with code in the past (even Scratch), you can just go right to 61A.
-[CS 61A - Structure and Interpretation of Computer Programs - Fall 2013](http://www-inst.eecs.berkeley.edu/~cs61a/sp14/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_805311012) | | corequisite: MIT 18.01 Single Variable Calculus;<br />If you're using Windows, you'll want to install [Git for Windows](https://gitforwindows.org/) since it comes with Git Bash, an equivalent to Terminal on Linux.
-[CS 61B - Data Structures and Advanced Programming - Spring 2014](https://inst.eecs.berkeley.edu/~cs61b/fa14/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_915550021) | [Labs and Homework](https://inst.eecs.berkeley.edu/~cs61b/fa14/hw/index.html) | 
+[CS 10 - The Beauty and Joy of Computing - Fall 2012](http://inst.eecs.berkeley.edu/~cs10/fa12/) | [Internet Achive](https://archive.org/details/ucberkeley_webcast_itunesu_556751887) | | If you've never touched code before. Any other course will do fine as well. If you've played around with code in the past (even Scratch), you can just go right to 61A.
+[CS 61A - Structure and Interpretation of Computer Programs - Fall 2013](http://www-inst.eecs.berkeley.edu/~cs61a/fa13/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_701354921) | | corequisite: MIT 18.01 Single Variable Calculus<br />You might not need to watch the lectures since it seems like the replacement videos are actually still up.<br />If you're using Windows, you'll want to install [Git for Windows](https://gitforwindows.org/) since it comes with Git Bash, an equivalent to Terminal on Linux.
+[CS 61B - Data Structures and Advanced Programming - Spring 2014](https://people.eecs.berkeley.edu/~jrs/61b/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_805311403) | [Labs and Homework](https://inst.eecs.berkeley.edu/~cs61b/fa14/hw/index.html) | 
 [CS 170 - Efficient Algorithms and Intractable Problems - Fall 2014](http://www-inst.cs.berkeley.edu/~cs170/fa14/) | [Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDMQSb7I9-N4oxi0Ran2q9g) | |
 
-[CS 61C - Machine Structures - Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs61c/sp15/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_960798612) | | In lab 0, skip step 0, skip the form, and when it tells you to add cs61c-xx, instead create a private repository on your own github account and add that.
+[CS 61C - Machine Structures - Fall 2014 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs61c/fa14/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_915550404) | | 
 
 
 
@@ -39,8 +39,8 @@ Course Homepage | Lectures | Calendar | Notes
 
 Course Homepage | Lectures | Calendar | Notes
 :-- | :-- | :-- | :-- 
-[Java Programming](https://java-programming.mooc.fi/) | | | Or AP CS A or any other way of knowing a substantial amount of programming
-[Preperation for CS 0190](http://cs.brown.edu/courses/csci0190/2018/Placement_Assignments.html) | | | Don't skip this
+[Java Programming](https://java-programming.mooc.fi/) | | | Or any other way of knowing Object-Oriented Programming
+[How to Design Programs](http://cs.brown.edu/courses/csci0190/2018/Placement_Assignments.html) | | | 
 [CS 0190](http://cs.brown.edu/courses/csci0190/2018/index.html) | [Panopto](https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222559ad35-3fff-4ef1-a2ac-a951011eb91e%22&maxResults=50) | [Assignments](https://cs.brown.edu/courses/cs019/2018/assignments.html) |
 [CS 1570](http://cs.brown.edu/courses/csci1570/index.html)/[CS 3110](https://www.cs.cornell.edu/courses/cs3110/2018sp/) | | | or maybe something else
     - [Programming and Programming Languages](https://papl.cs.brown.edu/2019/)
