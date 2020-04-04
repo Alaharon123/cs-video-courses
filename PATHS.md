@@ -3,14 +3,16 @@
 You will be going through two paths simultaneously: Math and Computer Science. You have one option for math, and three for computer science. You'll want to get started on the math right away and do it alongside the computer science. Which computer science track you go with will depend on where you're starting in math and where you're starting in computer science. 
 
 ## Math
-College Algebra is equivalent to Algebra 2, Single Variable Calculus is equivalent to Calculus 1-2 or AP Calculus BC, Math for Computer Science is roughly equivalent to Discrete Math. Start wherever you are up to in your math education. The College Algebra and Pre-Calculus courses come with a sort of placement test at the starting. If you get below 15%, you're not ready for the course. If you get at least 85%, you've already learned that material and should start with the next course. With all these courses, you may need to look elsewhere for additional help learning the material. Khan Academy is pretty great for everything through Single Variable Calculus.
+College Algebra is equivalent to Algebra 2, Single Variable Calculus is equivalent to AP Calculus BC, Math for Computer Science is roughly equivalent to Discrete Math. Start wherever you are up to in your math education. The ASU College Algebra and Pre-Calculus courses come with a sort of placement test at the starting that will tell you if you're ready to take the course yet or if you're already good with the material. With all these courses, you may need to look elsewhere for additional help learning the material. Khan Academy is pretty great for everything through Single Variable Calculus.
 
-Course | Notes
-:-- | :--
-[ASU MAT 117 College Algebra](https://www.edx.org/course/college-algebra-and-problem-solving) | 
-[ASU MAT 170 PreCalculus](https://www.edx.org/course/precalculus) |
-[MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) | There's also a [paced version on edX](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus) that runs once a year starting in the fall. You can likely learn the material faster on your own though.
-[MIT 6.042J Math for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | Note that there's also a [2015 version](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) that's worth looking at as a supplement.
+So which courses should you take? If you're starting with College Algebra, take the Sydney and UPenn courses. If you're starting with PreCalculus, take the ASU and MIT courses. If you're starting with Calculus, then do week 1 of the UPenn course to see if you're ready for that. If not, do the MIT course.
+
+Course | Notes | Alternative
+:-- | :-- | :--
+[ASU MAT 117 College Algebra](https://www.edx.org/course/college-algebra-and-problem-solving) | |
+[ASU MAT 170 PreCalculus](https://www.edx.org/course/precalculus) | See text above as to which to take. | [Sydney MATH 1111 Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus)
+[MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) | There's also a [paced version on edX](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus) that runs once a year starting in the fall. You can likely learn the material faster on your own though. | UPenn Math 104E Calculus: Single Variable ([Part 1 - Functions](https://www.coursera.org/learn/single-variable-calculus), [Part 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus), [Part 3 - Integration](https://www.coursera.org/learn/integration-calculus), [Part 4 - Applications](https://www.coursera.org/learn/applications-calculus), and [Part 5 -  Discretization](https://www.coursera.org/learn/discrete-calculus)
+[MIT 6.042J Math for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | Note that there's also a [2015 version](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) that's worth looking at as a supplement. |
 
 ## Computer Science
 
