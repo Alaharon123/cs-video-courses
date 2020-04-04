@@ -40,12 +40,6 @@ Course Homepage | Lectures | Notes
 
 Course Homepage | Lectures | Calendar | Notes
 :-- | :-- | :-- | :-- 
-[Java Programming](https://java-programming.mooc.fi/) | | | Or any other way of knowing Object-Oriented Programming
-[How to Design Programs](http://cs.brown.edu/courses/csci0190/2018/Placement_Assignments.html) | | | 
-[CS 0190](http://cs.brown.edu/courses/csci0190/2018/index.html) | [Panopto](https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222559ad35-3fff-4ef1-a2ac-a951011eb91e%22&maxResults=50) | [Assignments](https://cs.brown.edu/courses/cs019/2018/assignments.html) |
-[CS 1570](http://cs.brown.edu/courses/csci1570/index.html)/[CS 3110](https://www.cs.cornell.edu/courses/cs3110/2018sp/) | | | or maybe something else
-    - [Programming and Programming Languages](https://papl.cs.brown.edu/2019/)
-    - [Official Site](http://cs.brown.edu/courses/csci0190/)
-    - [Resources](https://functionalcs.github.io/curriculum/#org5f77e4e)
-
-
+Prior programming experience, preferably in Java | | | 
+[Material from How to Design Programs](http://cs.brown.edu/courses/csci0190/2018/Placement_Assignments.html) | | | 
+[CS 0190](http://cs.brown.edu/courses/csci0190/2018/index.html) | [Panopto](https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222559ad35-3fff-4ef1-a2ac-a951011eb91e%22&maxResults=50) | [Assignments](https://cs.brown.edu/courses/cs019/2018/assignments.html) | https://learnaifromscratch.github.io/software.html
