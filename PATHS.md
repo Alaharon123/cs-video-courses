@@ -1,6 +1,6 @@
 # Core Course Paths
 
-You will be going through two paths simultaneously: Math and Computer Science. You have one option for math, and three for computer science. You'll want to get started on the math right away and do it alongside the computer science. Which computer science track you go with will depend on where you're starting in math and where you're starting in computer science. 
+You will be going through two paths simultaneously: Math and Computer Science. You have two options for math, and three for computer science. You'll want to get started on the math right away and do it alongside the computer science. Which computer science track you go with will depend on where you're starting in math and where you're starting in computer science. 
 
 ## Math
 College Algebra is equivalent to Algebra 2, Single Variable Calculus is equivalent to AP Calculus BC, Math for Computer Science is roughly equivalent to Discrete Math. Start wherever you are up to in your math education. The ASU College Algebra and Pre-Calculus courses come with a sort of placement test at the starting that will tell you if you're ready to take the course yet or if you're already good with the material. With all these courses, you may need to look elsewhere for additional help learning the material. Khan Academy is pretty great for everything through Single Variable Calculus.
@@ -18,11 +18,11 @@ Course | Notes | Alternative
 
 ### WPI
 
-Course Homepage | Calendar | Notes
-:-- | :-- | :-- 
-[CS 1101 - Introduction to Program Design - A Term 2016](https://web.cs.wpi.edu/~cs1101/a16/) | | The course uses selections from the first and second editions of How to Design Programs. The links to second edition are broken so you'll have to manually navigate to the appropriate section of [How to Design Programs](https://htdp.org/).
-[CS 2102 - Object-Oriented Design Concepts - B Term 2016 - Kathi Fisler - WPI](https://web.cs.wpi.edu/~cs2102/b16/) | [Lectures & Assignments](https://web.cs.wpi.edu/~cs2102/b16/syllabus.html) | 
-CS 2223 | | prerequisite: 6.042J Math for Computer Science;<br />Use some combination of the [D Term 2015 version](https://web.cs.wpi.edu/~cs2223/d15/) and the [D Term 2018 version](https://web.cs.wpi.edu/~heineman/html/teaching_/cs2223/d18/)
+Course Homepage | Notes
+:-- | :-- 
+[CS 1101 - Introduction to Program Design - C Term 2018](https://web.cs.wpi.edu/~cs1101/c18/) | The course uses selections from the first and second editions of How to Design Programs. The links to second edition are broken so you'll have to manually navigate to the appropriate section of [How to Design Programs](https://htdp.org/).
+[CS 2102 - Object-Oriented Design Concepts - D Term 2018](https://web.cs.wpi.edu/~cs2102/d18/) | [Lectures](https://web.cs.wpi.edu/~cs2102/d20/)
+Princeton COS 226 - Algorithms [Part I](https://www.coursera.org/learn/algorithms-part1/) and [Part II](https://www.coursera.org/learn/algorithms-part2) | 
 
 ### Berkeley
 
