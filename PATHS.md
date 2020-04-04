@@ -44,5 +44,7 @@ Prior programming experience, preferably in Java | | |
 
 ### Princeton
 
-* COS 126 - Computer Science: An Interdisciplinary Approach ([Part I](https://www.coursera.org/learn/cs-programming-java), [Part II](https://www.coursera.org/learn/cs-algorithms-theory-machines))
-* COS 226 - Algorithms ([Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2)
+Course Number | Part I | Part II
+:-- | :-- | :--
+COS 126 | [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)
+COS 226 | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
