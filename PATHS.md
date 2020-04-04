@@ -34,8 +34,6 @@ Course Homepage | Lectures | Notes
 
 [CS 61C - Machine Structures - Fall 2014 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs61c/fa14/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_915550404) | | 
 
-
-
 ### Brown
 
 Course Homepage | Lectures | Calendar | Notes
@@ -43,3 +41,8 @@ Course Homepage | Lectures | Calendar | Notes
 Prior programming experience, preferably in Java | | | 
 [Material from How to Design Programs](http://cs.brown.edu/courses/csci0190/2018/Placement_Assignments.html) | | | 
 [CS 0190](http://cs.brown.edu/courses/csci0190/2018/index.html) | [Panopto](https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222559ad35-3fff-4ef1-a2ac-a951011eb91e%22&maxResults=50) | [Assignments](https://cs.brown.edu/courses/cs019/2018/assignments.html) | https://learnaifromscratch.github.io/software.html
+
+### Princeton
+
+* COS 126 - Computer Science: An Interdisciplinary Approach ([Part I](https://www.coursera.org/learn/cs-programming-java), [Part II](https://www.coursera.org/learn/cs-algorithms-theory-machines))
+* COS 226 - Algorithms ([Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2)
