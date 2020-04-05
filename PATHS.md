@@ -17,6 +17,20 @@ UPenn Math 104E - Calculus: Single Variable ([Part 1 - Functions](https://www.co
 
 ## Computer Science
 
+### Which track to take?
+
+By now you've already figured out which math course you're starting with. If not, go back and do that. 
+
+If you're starting with College Algebra, do the **WPI** track.
+
+If you want a course that takes pride in not needing *any* Computer Science knowledge in advance (not that you do for others, but especially not these), do the **WPI** track or the **Berkeley** track starting with CS 10. Berkeley if you're ready to start with at least PreCalculus and are fine with the difficulty ramping up a lot with the second course, WPI otherwise.
+
+If you want to start off with a sort of overview of Computer Science to see if it's a field you're interested in, start with **Princeton**. Or if you already want to do a course like MIT's 6.0001/6.00.1x or Harvard's CS50, do that followed by the **Berkeley** track starting with CS 61A.
+
+If you've already done a bunch of programming (more than just an intro course or two), you can do the **Brown** track if you want to get to the more advanced courses quicker. If you're beyond just a bunch of programming and have been working in industry for a while already, drop this guide (aside from the Math section) and do [TeachYourselfCS](https://teachyourselfcs.com/) instead.
+
+If this hasn't been enough to decide, take a gander at the first courses of the ones you're deliberating between and choose the one that jives with you more. Whatever you do, don't bounce between tracks because you're just going to end up wasting time.
+
 ### WPI
 
 Course Homepage | Notes
@@ -35,15 +49,6 @@ Course Homepage | Lectures | Notes
 [CS 61B - Data Structures and Advanced Programming - Spring 2014](https://people.eecs.berkeley.edu/~jrs/61b/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_805311403) | [Labs and Homework](https://inst.eecs.berkeley.edu/~cs61b/fa14/hw/index.html)
 [CS 61C - Machine Structures - Fall 2014](http://inst.eecs.berkeley.edu/~cs61c/fa14/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_915550404) |
 
-### Brown
-
-Course Homepage | Lectures | Calendar | Notes
-:-- | :-- | :-- | :-- 
-*Significant* prior programming experience, preferably in Java | | | 
-[Material from How to Design Programs](http://cs.brown.edu/courses/csci0190/2018/Placement_Assignments.html) | | | 
-[CS 0190](http://cs.brown.edu/courses/csci0190/2018/index.html) | [Panopto](https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222559ad35-3fff-4ef1-a2ac-a951011eb91e%22&maxResults=50) | [Assignments](https://cs.brown.edu/courses/cs019/2018/assignments.html) | https://learnaifromscratch.github.io/software.html
-[Carnegie Mellon 15-213 - Intro to Computer Systems - Fall 2015](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/) | | | 
-
 ### Princeton
 
 Course Number | Part I | Part II
@@ -52,9 +57,18 @@ COS 126 | [Computer Science: Programming with a Purpose](https://www.coursera.or
 COS 226 | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 [Berkeley CS 61C - Machine Structures - Fall 2014](http://inst.eecs.berkeley.edu/~cs61c/fa14/) ([Lectures](https://archive.org/details/ucberkeley_webcast_itunesu_915550404)) | |
 
+### Brown
+
+Course Homepage | Lectures | Calendar | Notes
+:-- | :-- | :-- | :-- 
+Significant prior programming experience, preferably in Java | | | 
+[Material from How to Design Programs](http://cs.brown.edu/courses/csci0190/2018/Placement_Assignments.html) | | | 
+[CS 0190](http://cs.brown.edu/courses/csci0190/2018/index.html) | [Panopto](https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222559ad35-3fff-4ef1-a2ac-a951011eb91e%22&maxResults=50) | [Assignments](https://cs.brown.edu/courses/cs019/2018/assignments.html) | https://learnaifromscratch.github.io/software.html
+[Carnegie Mellon 15-213 - Intro to Computer Systems - Fall 2015](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/) | | | 
+
 ## General Education
 
-If you were in college, you would have to do one or two semesters of English, two or three semesters of science, probably Physics and/or Chemistry, and a smattering of other topics of mostly your own choosing. I have not been able to find a high quality online Physics course (although Fundamentals of Physics is a good textbook if that's your thing. Make sure to actually do exercises though) and I have not looked for online Chemistry courses, so I am not going to make any recommendations for those subjects.
+If you were in college, you would have to do one or two semesters of English, two or three semesters of science (probably Physics and/or Chemistry) and a smattering of other topics of mostly your own choosing. I have not been able to find a high quality online Physics course (although Fundamentals of Physics is a good textbook if that's your thing. Make sure to actually do exercises though) and I have not looked for online Chemistry courses, so I am not going to make any recommendations for those subjects.
 
 I can't vouch for the quality of these courses either, but here are the only English courses I've been able to find:
 
