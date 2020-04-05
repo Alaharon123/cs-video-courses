@@ -1,9 +1,11 @@
-# Core Course Paths
+# Fadicse: Free Associate Degree in Computer Science equivalent
 
-You will be going through two paths simultaneously: Math and Computer Science. You have two options for math, and three for computer science. You'll want to get started on the math right away and do it alongside the computer science. Which computer science track you go with will depend on where you're starting in math and where you're starting in computer science. 
+You will be going through two paths simultaneously: Math and Computer Science. You have one option for math, and four for computer science. You'll want to get started on the math right away and do it alongside the computer science. You might want to also do some general education. 
+
+Which computer science track you go with will depend in part on where you're starting in math so we'll start with Math. Figure out which math course you're starting with (instructions below) before choosing a computer science track.
 
 ## Math
-College Algebra is equivalent to Algebra 2, Introduction to Calculus is roughly equivalent to AP Calculus AB, and Calculus: Single Variable is roughly equivalent to AP Calculus BC. If you had a regular high school education through PreCalulus, start with Introduction to Calculus, which includes a small refresher. If you haven't learned Algebra 2 or PreCalculus yet, start at the appropriate course and it'll begin with a diagnostic that will tell you if you're at the right level or not. If you've already learned Calculus, start with Calculus: Single Variable, you'll learn it on a much deeper level (if you learned series already, this is optional). With all these courses, you may need to look elsewhere for additional help learning the material. Khan Academy is pretty great for everything through Introduction to Calculus, possibly more.
+College Algebra is equivalent to Algebra 2, Introduction to Calculus is roughly equivalent to AP Calculus AB, and Calculus: Single Variable is roughly equivalent to AP Calculus BC. If you had a regular high school education through PreCalulus, start with Introduction to Calculus, which includes a small refresher. If you haven't learned Algebra 2 or PreCalculus yet, start at the appropriate course and it'll begin with a diagnostic that will tell you if you're at the right level or not. If you've already learned Calculus, start with Calculus: Single Variable, you'll learn it on a much deeper level (if you learned series already, this is optional). With all these courses (here and in the rest of the curriculum), you may need to look elsewhere for additional help learning the material. Khan Academy is pretty great for everything through Introduction to Calculus, possibly more.
 
 Course | Notes | Alternative
 :-- | :-- | :--
@@ -37,7 +39,7 @@ Course Homepage | Lectures | Notes
 
 Course Homepage | Lectures | Calendar | Notes
 :-- | :-- | :-- | :-- 
-Prior programming experience, preferably in Java | | | 
+*Significant* prior programming experience, preferably in Java | | | 
 [Material from How to Design Programs](http://cs.brown.edu/courses/csci0190/2018/Placement_Assignments.html) | | | 
 [CS 0190](http://cs.brown.edu/courses/csci0190/2018/index.html) | [Panopto](https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222559ad35-3fff-4ef1-a2ac-a951011eb91e%22&maxResults=50) | [Assignments](https://cs.brown.edu/courses/cs019/2018/assignments.html) | https://learnaifromscratch.github.io/software.html
 [Carnegie Mellon 15-213 - Intro to Computer Systems - Fall 2015](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/) | | | 
@@ -49,3 +51,25 @@ Course Number | Part I | Part II
 COS 126 | [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)
 COS 226 | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 [Berkeley CS 61C - Machine Structures - Fall 2014](http://inst.eecs.berkeley.edu/~cs61c/fa14/) ([Lectures](https://archive.org/details/ucberkeley_webcast_itunesu_915550404)) | |
+
+## General Education
+
+If you were in college, you would have to do one or two semesters of English, two or three semesters of science, probably Physics and/or Chemistry, and a smattering of other topics of mostly your own choosing. I have not been able to find a high quality online Physics course (although Fundamentals of Physics is a good textbook if that's your thing. Make sure to actually do exercises though) and I have not looked for online Chemistry courses, so I am not going to make any recommendations for those subjects.
+
+I can't vouch for the quality of these courses either, but here are the only English courses I've been able to find:
+
+* [UC Irvine - Academic English: Writing](https://www.coursera.org/specializations/academic-english)
+* [Duke English Composition](https://www.coursera.org/learn/english-composition)
+* ASU English Composition (note that these courses are only available on an academic schedule, meaning start of fall and spring semesters)
+   * ENG 101 - [English Composition](https://www.edx.org/course/english-composition-2)
+   * ENG 102 - [English Composition - Research and Writing](https://www.edx.org/course/english-composition-research-and-writing)
+   
+## What Next
+
+If you were in college, this is around the time that you would get an internship. I'm given to understand that those are signficantly harder to get when you're not in college, but if it makes sense for you, apply to a bunch of internships, take an algorithms course like Stanford's [Algorithms](https://www.coursera.org/specializations/algorithms) or Berkeley's [CS 170 - Efficient Algorithms and Intractable Problems - Fall 2018](https://inst.eecs.berkeley.edu/~cs170/fa18/), read [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Gayle-McDowell/dp/0984782850), practice interviewing with a friend, and try and get something going.
+
+I don't know if the above paragraph made any sense as advice to give, but regardless, if you're looking to continue your CS education, [OSSU](https://github.com/ossu/computer-science) and [TeachYourselfCS](https://teachyourselfcs.com/) are both good options. Here's what you've already completed the equivalent of and can thus skip:
+
+In OSSU, you have completed Intro CS, Core Programming aside from Programming Languages (although if you did the Brown route, make Programming Languages an Advanced Programming course and switch it out for Brown's [CSCI 1730 - Fall 2012](http://cs.brown.edu/courses/cs173/2012/)), Core Math, and Core Systems up until Networking.
+
+In TeachYourselfCS, you have completed Programming, Computer Architecture, and part of Math for CS.
