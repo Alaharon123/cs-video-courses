@@ -22,6 +22,7 @@ Course Homepage | Notes
 [CS 1101 - Introduction to Program Design - C Term 2018](https://web.cs.wpi.edu/~cs1101/c18/) | The course uses selections from the first and second editions of How to Design Programs. The links to second edition are broken so you'll have to manually navigate to the appropriate section of [How to Design Programs](https://htdp.org/).
 [CS 2102 - Object-Oriented Design Concepts - D Term 2018](https://web.cs.wpi.edu/~cs2102/d18/) | [Lectures](https://web.cs.wpi.edu/~cs2102/d20/)
 Princeton COS 226 - Algorithms [Part I](https://www.coursera.org/learn/algorithms-part1/) and [Part II](https://www.coursera.org/learn/algorithms-part2) | 
+[Berkeley CS 61C - Machine Structures - Fall 2014](http://inst.eecs.berkeley.edu/~cs61c/fa14/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_915550404)
 
 ### Berkeley
 
@@ -30,9 +31,7 @@ Course Homepage | Lectures | Notes
 [CS 10 - The Beauty and Joy of Computing - Fall 2012](http://inst.eecs.berkeley.edu/~cs10/fa12/) | [Internet Achive](https://archive.org/details/ucberkeley_webcast_itunesu_556751887) | If you've never touched code before. Any other course will do fine as well. If you've played around with code in the past (even Scratch), you can just go right to 61A.
 [CS 61A - Structure and Interpretation of Computer Programs - Fall 2013](http://www-inst.eecs.berkeley.edu/~cs61a/fa13/) | | corequisite: Introduction to Calculus<br />If you're using Windows, you'll want to install [Git for Windows](https://gitforwindows.org/) since it comes with Git Bash, an equivalent to Terminal on Linux.
 [CS 61B - Data Structures and Advanced Programming - Spring 2014](https://people.eecs.berkeley.edu/~jrs/61b/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_805311403) | [Labs and Homework](https://inst.eecs.berkeley.edu/~cs61b/fa14/hw/index.html)
-
-
-[CS 61C - Machine Structures - Fall 2014 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs61c/fa14/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_915550404) | | 
+[CS 61C - Machine Structures - Fall 2014](http://inst.eecs.berkeley.edu/~cs61c/fa14/) | [Internet Archive](https://archive.org/details/ucberkeley_webcast_itunesu_915550404) |
 
 ### Brown
 
@@ -41,6 +40,7 @@ Course Homepage | Lectures | Calendar | Notes
 Prior programming experience, preferably in Java | | | 
 [Material from How to Design Programs](http://cs.brown.edu/courses/csci0190/2018/Placement_Assignments.html) | | | 
 [CS 0190](http://cs.brown.edu/courses/csci0190/2018/index.html) | [Panopto](https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222559ad35-3fff-4ef1-a2ac-a951011eb91e%22&maxResults=50) | [Assignments](https://cs.brown.edu/courses/cs019/2018/assignments.html) | https://learnaifromscratch.github.io/software.html
+[Carnegie Mellon 15-213 - Intro to Computer Systems - Fall 2015](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/) | | | 
 
 ### Princeton
 
@@ -48,3 +48,4 @@ Course Number | Part I | Part II
 :-- | :-- | :--
 COS 126 | [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)
 COS 226 | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+[Berkeley CS 61C - Machine Structures - Fall 2014](http://inst.eecs.berkeley.edu/~cs61c/fa14/) ([Lectures](https://archive.org/details/ucberkeley_webcast_itunesu_915550404)) | |
